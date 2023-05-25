@@ -27,7 +27,7 @@ Hi, I'm Uriel Nguefack Yefou!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Intelligence+Student;Machine+Learning+Developer;Data+Analyst;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/nguefackuriel/nguefackuriel/blob/main/Uriel Nguefack.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/nguefackuriel/nguefackuriel/blob/main/Uriel_picture.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
