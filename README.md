@@ -108,7 +108,7 @@ nguefackuriel@github
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     Uriel's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Uriel's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=nguefackuriel&theme=react-dark&hide_border=true&area=true) |
 | ![Uriel's github stats](https://github-readme-stats.vercel.app/api?username=nguefackuriel&show_icons=true&theme=algolia)              | 
