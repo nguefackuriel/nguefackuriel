@@ -147,7 +147,7 @@ You can hire me as a freelancer on <a href="https://www.linkedin.com/in/uriel-ng
 </table>
 
 ------
-Credits: [Eminent01]([https://github.com/nguefackuriel](https://github.com/nguefackuriel))
+Credits: [nguefackuriel]([https://github.com/nguefackuriel](https://github.com/nguefackuriel))
 Last Edited On: 25/05/2023
 
 
