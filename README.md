@@ -18,7 +18,7 @@ Hi, I'm Uriel Nguefack Yefou!
 ```
 nguefackuriel@github
 -------------------------
-💻 I am currently a Machine Learning student at AMMI. 
+💻 I am currently a PhD student in AI & Cybersecurity at Concordia University, Montreal, Canada. 
 📚 I have a Master in Mathematical Sciences from African Institute for Mathematical Sciences, Cameroon.
 📚 I have a Master of Engineering in Industrial Robotics at the National Higher Polytechnic School of Douala, Cameroon.
 📚 I have a Bachelor in Applied physics from the Faculty of Science of the University of Douala, Cameroon.
