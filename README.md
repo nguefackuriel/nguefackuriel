@@ -100,8 +100,6 @@ nguefackuriel@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about Machine Learning; Data Science and Data Analysis, feel free to <a href="mailto:nguefackuriel@gmail.com">contact me through email</a> me.
-
 You can hire me as a freelancer on <a href="https://www.linkedin.com/in/uriel-nguefack-yefou/">LinkedIn</a> to work on machine learning projects and deploy them.
 
   </td>
